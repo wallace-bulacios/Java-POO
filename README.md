@@ -59,3 +59,6 @@ O código reescrito em BadItem não possui a caracteristica de Encapsulamento.
 Ao escrever uma classe pode se ter problemas se tentar trabalhar de forma abstrata demais. Pois em um programa vai existir diferentes objetos que se comportam de formas diferentes.
 
 :warning: Não coloque em uma classe mais que o necessário para resolver o problemas.
+
+### Resumo
+Com o entendimento do encapsulamento, você pode começar a programar utilizando a orientação a objetos de forma mais eficaz. Essa técnica permite criar objetos reutilizáveis em diversas situações, graças à abstração. Além disso, a ocultação da implementação interna dos objetos proporciona maior flexibilidade para futuras modificações, sem afetar outras partes do código. Ao dividir as responsabilidades entre os objetos, você evita a duplicação de código e mantém uma estrutura mais organizada, característica da programação procedural.
